@@ -7,9 +7,6 @@
   *            partition_types >= 0.9.25
   *            partition_tools >= 0.9.9
   *
-  * $HeadURL: http://codebase.office.tipp24.de/svn/admin/ops/DBA/trunk/plsql_modules/partition_handler/partition_handler.pck $
-  * $LastChangedDate: 2015-01-30 14:09:35 +0100 (Fr, 30 Jan 2015) $
-  * $LastChangedBy: tkrah $
   *****************************************************************************/
   gc_module_version CONSTANT module_admin.t_module_version := '0.9.45';
   gc_module_label   CONSTANT module_admin.t_module_label := $$PLSQL_UNIT || ' v' || gc_module_version;
