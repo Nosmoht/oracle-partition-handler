@@ -6,9 +6,6 @@
   * Date:     2014-05-06
   * Version:  0.9.25
   *
-  * $HeadURL: http://codebase.office.tipp24.de/svn/admin/ops/DBA/trunk/plsql_modules/partition_handler/partition_types.spc $
-  * $LastChangedDate: 2014-04-03 08:51:23 +0200 (Do, 03 Apr 2014) $
-  * $LastChangedBy: tkrah $
   *****************************************************************************/
   gc_module_version CONSTANT module_admin.t_module_version := '0.9.25';
 
